@@ -12,7 +12,7 @@ import './styles.css';
 
 import logo from '../../assets/logo.svg';
 
-interface Item{
+interface Item {
     id: number;
     name: string;
     image_url: string;
